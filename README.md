@@ -1,6 +1,6 @@
 ### MyNotes: Human Computer Interaction Project by-- Shramish Kafle
 
-#### NyNotes Application
+#### MyNotes Application
 
 MyNotes is a note organizing application. User can login into the application either by registering or through Gmail Authentication. The application also allows user to create new notes and view the complete note details.User can either edit or delete individual notes. It also allows user to search specific notes according to specific keywords. User can also download the complete note details in form of pdf or csv. Finally, the application also has pagination.
 
